@@ -4,3 +4,6 @@
 lib/
 lib-R/
 lib-ext/
+
+.DS_Store
+.Rhistory
