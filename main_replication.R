@@ -1,6 +1,3 @@
-####################################################################
-## to replicate, please install lme4<1.0, blme<1.0 and arm<1.6-07 ##
-####################################################################
 ## Load pre-defined convenience functions
 source("./library.R") 
 
